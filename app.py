@@ -70,7 +70,7 @@ if uploaded_file is not None:
     llm = OllamaLLM(model="mistral")
 
     
-    tavily = TavilyClient(api_key="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")
+    tavily = TavilyClient(api_key="API Key")
 
     if query:
 
